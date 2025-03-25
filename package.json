@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@shadcn/ui": "^0.0.4",
+    "@types/react-syntax-highlighter": "^15.5.13",
     "axios": "^1.8.4",
     "firebase": "^11.5.0",
     "lolcodeai": "file:",
